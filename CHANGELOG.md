@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.0](https://github.com/nozaq/terraform-aws-remote-state-s3-backend/compare/v1.2.0...v1.3.0) (2022-05-14)
+
+
+### Features
+
+* added the capability to specify an alias for the KMS Key ([#87](https://github.com/nozaq/terraform-aws-remote-state-s3-backend/issues/87)) ([fc70af4](https://github.com/nozaq/terraform-aws-remote-state-s3-backend/commit/fc70af4572c686045c95936e0a1152d089fe749b))
+
 ## [1.2.0](https://github.com/nozaq/terraform-aws-remote-state-s3-backend/compare/v1.1.2...v1.2.0) (2022-04-16)
 
 
